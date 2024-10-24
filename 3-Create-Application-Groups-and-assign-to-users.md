@@ -23,7 +23,7 @@ An application group of type ‘Desktop’, was created automatically while crea
 
    ![ws name.](media-1/Ex3-task1-step2.png)
 
-1. Click on the **Application Groups** tab and you will see the default Application Group there. 
+1. Click on the **Application Groups** tab under **Manage** blade and you will see the default Application Group there. 
 
    ![ws name.](media-2/applicationgroup.png)
    
