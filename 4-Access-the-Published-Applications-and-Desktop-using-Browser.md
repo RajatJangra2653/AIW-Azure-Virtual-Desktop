@@ -12,7 +12,7 @@ In this exercise, we will access the Desktop and RemoteApps assigned to us in la
 
 1.  Navigate to Azure portal, then search for *Host pools* in search bar and select **Host pools** from the suggestions.
 
-1. Navigate to **GS-AVD-HP**, then go to **Properties**. Under the **Preferred app group type**, choose **RemoteApp** and click **Save**.
+1. Navigate to **GS-AVD-HP**, then go to **Properties** under **Settings** blade. Under the **Preferred app group type**, choose **RemoteApp** and click **Save**.
 
    ![ws name.](media/1.1.png)
 
